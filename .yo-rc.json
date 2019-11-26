@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.fikyreactdesign.admin.id",
+      "nativeLanguage": "in"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "jhipsterReactCoreui",
+    "packageName": "com.fikyreactdesign.admin.id",
+    "packageFolder": "com/fikyreactdesign/admin/id",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Y2RlY2M2ZGNjMzcyOGUzZmUyYzEyNGEyNzljNmI1MGYyM2NkZmEzMTAwZDI3N2Q5NmQ1MTRkZjI4NzRhZGJmZTlhMWZkNTBiMTFkM2ViMTdmMDJhYzdkYjVlYzQ2NzYyMTc1M2ViOGU3NGNiNDY4N2JiODA2NDAwMjMwZWUyMTU=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "flatly",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "in",
+    "languages": [
+      "in"
+    ],
+    "blueprints": []
+  }
+}
